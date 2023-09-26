@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+.header {
+    text-align:center;
+    padding: 30px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCsVBcR21B9lFqQ75TPbO8pYzhCPia0HUR_y7CMI2BdE9wIsCdoYqiPSkmsOO5l1tDwqs&usqp=CAU);
+}
+
+.list li {
+    display:inline-block;
+    margin-left:100px;
+}
+
+.list a {
+    font-size:20px;
+    line-height:1.5;
+    color:#ff4d00;
+    text-decoration: none;
+    font-size:177%;
+}
+
+.main-section {
+    padding:30px;
+}
+
+.main-heading {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.main-paragraph {
+    padding: 0 20px;
+}
+
+.main-img {
+    display:block;
+    margin: 0 auto;
+    transition:all 1s ease-in-out;
+    width: 50%;
+    height: 50%;
+}
+.about{
+    text-align:center;
+}
+
+.about_t{
+    float: left;
+    width: 50%;
+    font-size:30px;
+    color:black;
+}
+
+.body{
+    background-image: url(https://mmo13.ru/download/games/3/2575.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
